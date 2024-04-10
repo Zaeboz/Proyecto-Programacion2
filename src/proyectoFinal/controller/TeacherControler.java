@@ -71,7 +71,7 @@ public class TeacherControler {
 		subjectList1.add(subject3);
 		subjectList1.add(subject4);
 		
-		Faculty.addTeacher(documentCard1, teacherName1, profession1,academicLeve1,subjectList1);
+		addTeacher(documentCard1, teacherName1, profession1,academicLeve1,subjectList1);
 	}
 
 	/**
